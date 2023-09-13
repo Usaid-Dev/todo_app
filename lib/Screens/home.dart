@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_null_comparison, unused_element, avoid_print
+
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:todo_app/Widgets/todo_item.dart';
